@@ -16,4 +16,4 @@ After a specific amount of moves, the game ends, and we measure the qubits. Base
 ## Implementation
 [This GitHub code](https://github.com/LauraGentini/QRL) implemented both the environment and the agent. However, the agent uses states without measuring, so it is not useful for us.
 
-Attention that this code works with previous versions of qiskit. For using the current compatible version, use the [pull request that was made by me](https://github.com/alirezatwk/QRL). You just need to install gym and qiskit packages.
+Attention that this code works with previous versions of qiskit. For using the current compatible version, use [this pull request](https://github.com/alirezatwk/QRL). You just need to install gym and qiskit packages.
